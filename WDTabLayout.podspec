@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author       = { "xlz520" => "xlz521w@163.com" }
   s.platform     = :ios, "8.0"
   s.ios.deployment_target = "8.0"
-  s.source       = { :git => "https://github.com/wudan-ios/WDTabLayout.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/wudan-ios/WDTabLayout.git", :tag => "0.0.1" }
   s.source_files  = "WDTabLayout", "WDTabLayout/*.{h,m}"
   s.requires_arc = true
 
